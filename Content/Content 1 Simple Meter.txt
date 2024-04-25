@@ -17,8 +17,8 @@ Part 1 !
 
 Voice action:
 Ngayon, tuloy natin sa ating pag-uusap tungkol sa:
-+ Gumawa ng App
-+ Paano maglagay ng background
++ Paggawa ng App
++ Paano maglagay ng background image
 
 3. Explain What is happening in fastest way in this program;
 + Explain this;
